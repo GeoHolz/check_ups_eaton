@@ -122,15 +122,15 @@ mibsPath="./mibs"
 snmpversion='2c'
 
 #ups oids snmp
-oid_upsOutputNumLines='1.3.6.1.2.1.33.1.4.3.0'
-oid_upsInputNumLines='1.3.6.1.2.1.33.1.3.2.0'
-oid_upsBatteryTemperature='1.3.6.1.2.1.33.1.2.7.0'
+oid_upsOutputNumLines='1.3.6.1.2.1.33.1.4.3'
+oid_upsInputNumLines='1.3.6.1.2.1.33.1.3.2'
+oid_upsBatteryTemperature='1.3.6.1.2.1.33.1.2.7'
 oid_upsOutputPercentLoad='1.3.6.1.2.1.33.1.4.4.1.5'
-oid_upsBatteryStatus='1.3.6.1.2.1.33.1.2.1.0'
-oid_upsInputVoltage='1.3.6.1.2.1.33.1.3.3.1.3'
+oid_upsBatteryStatus='1.3.6.1.2.1.33.1.2.1'
+oid_upsInputVoltage='1.3.6.1.2.1.33.1.9.1'
 oid_upsEstimatedChargeRemaining='1.3.6.1.2.1.33.1.2.4'
 oid_upsEstimatedMinutesRemaining='1.3.6.1.2.1.33.1.2.3'
-oid_upsAlarmsPresent='1.3.6.1.2.1.33.1.6.1.0'
+oid_upsAlarmsPresent='1.3.6.1.2.1.33.1.6.1'
 oid_upsAlarmDescr='1.3.6.1.2.1.33.1.6.2.1.2'
 oid_upsAlarmTime='1.3.6.1.2.1.33.1.6.2.1.3'
 
