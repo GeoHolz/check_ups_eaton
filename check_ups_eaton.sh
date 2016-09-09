@@ -29,8 +29,8 @@
 
 
 PROGNAME=`basename $0`
-VERSION="Version 1.0,"
-AUTHOR="2013, Daniel Due�as Domingo (mail:dduenasd@gmail.com)"
+VERSION="Version 2.0,"
+AUTHOR="2016, Holz Geo (mail:info@jolos.fr)"
 
 print_version() {
     echo "$VERSION $AUTHOR"
